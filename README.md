@@ -38,5 +38,15 @@ Bu komutları sırayla yazdıktan sonra `C:\Program Files (x86)\PRTG Network Mon
 ![image](https://github.com/user-attachments/assets/82a6bf1c-3cf6-4525-90ba-0d44bfd187c7)
 
 
+Admin aracı üzerinden PRTG'yi yeniden başlatıyoruz ve artık PRTG ekranımız SSL sertifikalı bir şekilde açılmaktadır.
+
+![image](https://github.com/user-attachments/assets/c422618e-92ed-4572-b5bb-e683e44f3e8c)
+
+
+
+## Teşekkürler
+
+
+
 
 
